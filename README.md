@@ -1,6 +1,6 @@
-# Project Title
+# Student Managment System
 
-Welcome to **Project Title**!  
+Welcome to **Student Managment system**!  
 This repository contains a Bash script that manages student records including adding, updating, deleting, and viewing students, as well as sorting by CGPA.
 
 ## Features
